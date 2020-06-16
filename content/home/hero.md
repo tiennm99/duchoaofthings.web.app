@@ -51,7 +51,7 @@ hero_media = "logo.png"
   label = "Online trong khoảng 6:00am đến 10:00pm"
 +++
 
-**Những người bạn đồng hành cùng học sinh trường THPT Đức Hòa**
+-> *Những người bạn đồng hành cùng học sinh trường THPT Đức Hòa*
 
 Cập nhật những thông tin mới nhất về:
 

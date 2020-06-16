@@ -13,7 +13,7 @@ slides:
   highlight_style: dracula
 ---
 
-# Cách tạo một slide trình chiếu trên web của chúng ta
+## Cách tạo một slide trình chiếu trên web của chúng ta
 
 Thật ra là mình cũng dựa trên một nguồn có sẵn thôi :v
 
@@ -36,7 +36,7 @@ Thật ra là mình cũng dựa trên một nguồn có sẵn thôi :v
 - Slide trước: `mũi tên trái`
 - Slide đầu: `Home`
 - Slide cuối: `End`
-- Xem tổng quản: `Esc`
+- Xem tổng quan: `Esc`
 - Bật "Speaker notes": `S`
 - Toàn màn hình: `F`
 - Zoom: `Ctrl + Click`
@@ -49,6 +49,7 @@ Thật ra là mình cũng dựa trên một nguồn có sẵn thôi :v
 Inline code: `variable`
 
 Code block:
+
 ```python
 porridge = "blueberry"
 if porridge == "blueberry":
@@ -73,17 +74,17 @@ $$
 
 Này nhé, cùng đếm một, hai, ba nào!
 
-```
-{{%/* fragment */%}} One {{%/* /fragment */%}}
-{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-{{%/* fragment */%}} Three {{%/* /fragment */%}}
+```html
+{{%/* fragment */%}} Một {{%/* /fragment */%}}
+{{%/* fragment */%}} **Hai** {{%/* /fragment */%}}
+{{%/* fragment */%}} Ba {{%/* /fragment */%}}
 ```
 
 Nhấn `Space` để bắt đầu nhé!
 
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
+{{% fragment %}} Một {{% /fragment %}}
+{{% fragment %}} **Hai** {{% /fragment %}}
+{{% fragment %}} Ba {{% /fragment %}}
 
 ---
 
@@ -100,16 +101,17 @@ Một fragment thì có 2 parameters tùy chọn:
 
 ```markdown
 {{%/* speaker_note */%}}
-- Only the speaker can read these notes
-- Press `S` key to view
+- Chỉ người trình bày mới đọc đươc cái này
+- Nhấn `S` để xem thử
 {{%/* /speaker_note */%}}
 ```
 
 Nhấn `S` để xem thử nhé!
 
 {{< speaker_note >}}
-- Only the speaker can read these notes
-- Press `S` key to view
+
+- Chỉ người trình bày mới đọc đươc cái này
+- Nhấn `S` để xem thử
 {{< /speaker_note >}}
 
 ---
@@ -161,7 +163,7 @@ Create `assets/css/reveal_custom.css` with:
 
 ---
 
-# Câu hỏi?
+## Câu hỏi
 
 Muốn hòi mình gì nào? Inbox group chat của nhóm mình đi. Hiu quạnh lâu nay :/
 
