@@ -7,9 +7,9 @@ stages:
 
 build:
   image: monachus/hugo
-  stage: build --cleanDestinationDir --gc
+  stage: build
   script:
-    - hugo
+    - hugo --cleanDestinationDir --gc
   artifacts:
     paths:
       - public
