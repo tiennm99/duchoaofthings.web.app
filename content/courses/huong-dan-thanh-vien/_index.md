@@ -61,4 +61,4 @@ Sau khi bài được đăng, bạn có thể "quảng bá" bài viết của m�
 
 Cảm ơn các bạn đã đọc bài hướng dẫn của mình. Nếu gặp khó khăn, các bạn hãy [nhắn tin cho mình][miti99] hoặc nhắn tin trong group nhóm để hỏi. Chúc các bạn có những bài viết thật hay và hấp dẫn. Thân ái!
 
-[miti99]: https://www.facebook.com/messages/t/Tien.NM99
+[miti99]: https://www.facebook.com/messages/t/miti99
