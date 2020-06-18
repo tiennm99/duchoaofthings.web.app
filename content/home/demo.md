@@ -30,7 +30,7 @@ subtitle = "**Tại trường Đại học Bách Khoa ngày 21-06-2020**"
   
   # Background image.
   image = "background.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken = 0.7  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
@@ -80,6 +80,6 @@ THỜI GIAN : 7:00-16:00 ngày 21-06-2020
 
 <span style="color:yellow">Ngoài ra, với các bạn học sinh trường THPT Đức Hòa, nhóm [BKFC - THPT Đức Hòa](https://www.facebook.com/bkfcduchoalongan/) gồm các anh chị là cựu học sinh trường ta sẽ đón và hướng dẫn cho các bạn.  
 Hãy đến với buổi tư vấn để được giải đáp về những bâng khuâng trong lòng hay biết thêm nhiều thông tin bạn muốn biết về môi trường đại học...  
-Hẹn gặp các bạn vào chủ nhật 21/06/20...</span>
+Hẹn gặp các bạn vào chủ nhật 21/06/2020</span>
 
 _Nguồn ảnh nền: <https://www.facebook.com/tuvantuyensinhbachkhoa/>_
