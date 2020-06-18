@@ -58,7 +58,7 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   cta_label = "Hướng dẫn tại đây"
-  cta_url = "/post/2020-05-30-huong-dan-thanh-vien-nhom"
+  cta_url = "/courses/huong-dan-thanh-vien"
   cta_icon_pack = "fas"
   cta_icon = "link"
 +++

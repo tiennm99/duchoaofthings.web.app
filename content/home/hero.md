@@ -48,7 +48,7 @@ hero_media = "logo.png"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = "Online trong khoảng 6:00am đến 10:00pm"
+  label = "Online trong khoảng 6:00am đến 10:10pm"
 +++
 
 -> *Những người bạn đồng hành cùng học sinh trường THPT Đức Hòa*

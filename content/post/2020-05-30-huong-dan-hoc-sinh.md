@@ -9,7 +9,7 @@ tags: ["Hướng dẫn"]
 categories: []
 date: 2020-05-30
 lastmod: 2020-05-30
-featured: true
+featured: false
 draft: false
 
 # Featured image
