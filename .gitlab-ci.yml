@@ -15,12 +15,14 @@ build:
       - public
   only:
     - master
+    - netlify-cms
 
 deploy:
   image: devillex/docker-firebase:slim
   stage: deploy
   only:
     - master
+    - netlify-cms
   script:
     - firebase deploy --token "$FIREBASE_TOKEN"
   # environment:
