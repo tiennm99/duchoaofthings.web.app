@@ -1,7 +1,7 @@
 backend:
   name: gitlab
   repo: duchoaofthings/duchoaofthings.web.app
-  branch: netlify-cms
+  branch: master
   base_url: https://duchoaofthings.herokuapp.com
 
 media_folder: "static/img/uploads/" # Folder where user uploaded files should go
